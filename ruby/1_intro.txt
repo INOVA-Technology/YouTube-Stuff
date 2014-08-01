@@ -1,0 +1,11 @@
+https://www.ruby-lang.org/
+
+Windows: http://rubyinstaller.org/
+
+UNIX: https://github.com/sstephenson/rbenv or https://rvm.io/
+
+OS X comes with Ruby, but it's 1.8.7 and it's buggy and slow. Upgrade.
+
+Feel free to skip the following if you have a background in programming
+
+# talk about ints, floats, strings, chars, and puts/methods/functions
