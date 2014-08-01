@@ -1,11 +1,29 @@
-https://www.ruby-lang.org/
+# not awkward introduction
+# be funny
 
-Windows: http://rubyinstaller.org/
+# be breif with the boring stuff (intro, why learn ruby, where to download)
 
-UNIX: https://github.com/sstephenson/rbenv or https://rvm.io/
+Why learn Ruby?
+  Ruby is used in many places including:
+    normal people stuff:
+      google sketchup api # http://www.sketchup.com/intl/en/developer/index
+        custom drawing tools, plugins
+      medicine and biology
+        http://www.jblearning.com/catalog/9780763750909/
+      twitter # not any more
+      motorola for research
+      NASA Langley Research Center uses Ruby to conduct simulations
+
+    developer stuff:
+      http://brew.sh/
+      https://github.com/
+    also: https://www.ruby-lang.org/en/documentation/success-stories/
+  And, it's a beautiful language (show some nice code)
+
+Download here:
+  Windows: http://rubyinstaller.org/
+  UNIX: https://github.com/sstephenson/rbenv or https://rvm.io/
 
 OS X comes with Ruby, but it's 1.8.7 and it's buggy and slow. Upgrade.
-
-Feel free to skip the following if you have a background in programming
 
 # talk about ints, floats, strings, chars, and puts/methods/functions
