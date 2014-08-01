@@ -13,6 +13,8 @@ Why learn Ruby?
       twitter # not any more
       motorola for research
       NASA Langley Research Center uses Ruby to conduct simulations
+      soundcloud
+      hulu
 
     developer stuff:
       http://brew.sh/
@@ -26,4 +28,22 @@ Download here:
 
 OS X comes with Ruby, but it's 1.8.7 and it's buggy and slow. Upgrade.
 
-# talk about ints, floats, strings, chars, and puts/methods/functions
+To launch: 
+  Windows: command prompt
+  UNIX: Terminal
+  type irb<enter>
+
+# talk about ints, floats, strings, and puts/methods/functions like
+String#to_i, Fixnum#to_s and Float#to_s
+
+# something like:
+So if you've never programmed, just enter a number, and hit enter.
+Thats how you represent a number in Ruby. Pretty simple. You can even
+do math. Try typing "4 + 8". Notice that it works with or without the
+spaces. Use "*" for multiplication, and "/" for division. "**" does
+exponents. Try "3*9+4**4/2". You can also use parentheses,
+try "3*9+4**(4/2)" and see that Ruby follows the order of operations
+
+# now explain floats, and why "5/2 != 2.5"
+
+# then strings and puts
